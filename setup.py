@@ -19,7 +19,7 @@ setup(
         'boto'
     ],
     classifiers=[
-        'Programing Language :: Python :: 2.6',
-        'Programing Language :: Python :: 2.7',
+        'Programming Language :: Python :: 2.6',
+        'Programming Language :: Python :: 2.7',
     ]
 )
