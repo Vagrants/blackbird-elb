@@ -16,6 +16,7 @@ setup(
     author_email='jumpei.arashi@arashike.com',
     url='https://github.com/Vagrants/blackbird-elb',
     install_requires=[
+        'blackbird',
         'boto'
     ],
     classifiers=[
